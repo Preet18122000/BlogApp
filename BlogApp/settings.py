@@ -38,7 +38,7 @@ SECRET_KEY = ')%(y%ln3#a*#70x#3bbmjj2b6ww$w3(jek1kw0m%3y&ya-18eb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'digital-diariess.herokuapp.com']
 
 
 # Application definition
